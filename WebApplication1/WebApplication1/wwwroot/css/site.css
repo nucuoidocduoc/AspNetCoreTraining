@@ -1,0 +1,8 @@
+﻿.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.color {
+    color: red;
+}
